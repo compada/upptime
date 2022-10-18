@@ -10,12 +10,17 @@ sites:
   - name: API
     url: https://api.compada.dev/healthz
 
+assignees: # Users to assign downtime issues (optional)
+  - dudo
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.compada.dev
   # baseUrl: /your-repo-name
   logoUrl: https://www.compada.io/images/favicon.svg
+  faviconSvg: https://www.compada.io/images/favicon.svg
+  favicon: https://www.compada.io/images/favicon.ico
   name: Compada Status
   navbar:
     - title: Status
