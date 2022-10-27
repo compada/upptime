@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.compada.dev.ico",
     "slug": "app",
     "status": "up",
-    "uptime": "70.13%",
+    "uptime": "70.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "70.13%",
-    "uptimeYear": "70.13%",
+    "uptimeMonth": "70.55%",
+    "uptimeYear": "70.55%",
     "time": 193,
     "timeDay": 208,
     "timeWeek": 204,
@@ -46,17 +46,19 @@
     "url": "https://api.compada.dev/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/api.compada.dev.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 151,
-    "timeDay": 156,
-    "timeWeek": 158,
-    "timeMonth": 151,
-    "timeYear": 151,
-    "dailyMinutesDown": {}
+    "time": 150,
+    "timeDay": 147,
+    "timeWeek": 156,
+    "timeMonth": 150,
+    "timeYear": 150,
+    "dailyMinutesDown": {
+      "2022-10-27": 0
+    }
   }
 ]
