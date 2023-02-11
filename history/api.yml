@@ -1,7 +1,7 @@
 url: https://api.compada.dev/healthz
 status: up
 code: 200
-responseTime: 199
-lastUpdated: 2023-02-10T23:13:46.586Z
+responseTime: 145
+lastUpdated: 2023-02-11T23:12:56.893Z
 startTime: Sat Oct 15 2022 21:23:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
